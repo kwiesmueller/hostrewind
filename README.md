@@ -2,6 +2,10 @@
 
 ## Install
 ```shell
+go get -u github.com/kwiesmueller/hostrewind/bin/hostrewind
+```
+
+```shell
 make prepare
 make install
 ```
